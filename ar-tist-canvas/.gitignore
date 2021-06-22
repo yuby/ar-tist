@@ -1,2 +1,5 @@
 /pkg
 /target
+/node_modules
+.vscode
+/www/node_modules

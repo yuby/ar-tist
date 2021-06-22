@@ -1,11 +1,10 @@
 {
-  "name": "ar-tist",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "name": "ar-tist-canvas",
+  "version": "0.1.0",
+  "description": "ar-tist",
+  "collaborators": [
+    "yuby <leesyub@gmail.com>"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/yuby/ar-tist.git"
@@ -17,11 +16,5 @@
     "url": "https://github.com/yuby/ar-tist/issues"
   },
   "homepage": "https://github.com/yuby/ar-tist#readme",
-  "devDependencies": {
-    "typescript": "^4.3.4"
-  },
-  "dependencies": {
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2"
-  }
+  "devDependencies": {}
 }
