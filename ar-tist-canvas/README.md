@@ -1,7 +1,13 @@
 # Ar-tist Canvas (starter kit)
 
+## run
+
+```
+yarn start
+```
+
 ## build
 
 ```
-wasm-pack build
+yarn build
 ```
