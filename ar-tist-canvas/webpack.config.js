@@ -43,7 +43,8 @@ module.exports = {
       outName: "ar-tist",
       watchDirectories: [
         path.resolve(__dirname, "src")
-      ]
+      ],
+      forceMode: "development"
     }),
   ],
   experiments: {
