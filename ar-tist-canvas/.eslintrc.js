@@ -1,7 +1,7 @@
 module.exports = {
   extends: ['airbnb-typescript'],
   parserOptions: {
-    project: ['./tsconfig.eslint.json']
+    project: ['./tsconfig.json']
   },
   ignorePatterns: [".eslintrc.js", "webpack.*.js"],
 };

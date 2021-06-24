@@ -47,6 +47,8 @@ export default function SceneComponent(props: any) {
         }
       };
     }
+
+    return () => {};
   }, [reactCanvas]);
 
   return (
